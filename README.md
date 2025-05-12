@@ -1,0 +1,3 @@
+# Mozaik EdPro Telegram Bot
+
+Інструкція запуску бота описана тут...
