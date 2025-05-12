@@ -1,0 +1,48 @@
+{
+  "901422795": {
+    "courses": {
+      "course1": {
+        "modules": {
+          "module2": {
+            "completed": true,
+            "test_score": 60.0
+          },
+          "module1": {
+            "completed": true,
+            "test_score": 80.0
+          },
+          "module3": {
+            "completed": true,
+            "test_score": 100.0
+          },
+          "module4": {
+            "completed": true,
+            "test_score": 40.0
+          }
+        },
+        "total_modules": 5
+      },
+      "course2": {
+        "modules": {},
+        "total_modules": 5
+      }
+    }
+  },
+  "7688677935": {
+    "courses": {
+      "course1": {
+        "modules": {
+          "module1": {
+            "completed": true,
+            "test_score": 0.0
+          }
+        },
+        "total_modules": 5
+      },
+      "course2": {
+        "modules": {},
+        "total_modules": 5
+      }
+    }
+  }
+}
